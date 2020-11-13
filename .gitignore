@@ -1,0 +1,6 @@
+# Editors
+.idea
+
+# Executables
+*.exe
+./videosubs
